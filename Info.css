@@ -1,0 +1,53 @@
+body {
+	background-color: whitesmoke;
+}
+.container{
+	background-color: #aadac2;
+	border: 20px whitesmoke;
+	width: 1200px;
+	height: 3000px;
+	margin-left: 350px;
+	margin-right: 400px;
+	margin-top: 10px;
+}
+.title {
+	text-align: center;
+	font-size: 30px;
+	color: #c992c2;
+}
+.link {
+	text-align: center;
+	color: #c992c2;
+	font-size: 20px;
+}
+ul {
+	list-style: none;
+	background: #e2fff3;
+	text-align: center;
+}
+ul li{
+	display: inline-block;
+	position: relative;
+}
+ul li a {
+	display: block;
+	padding: 10px 10px;
+	color: #c992c2;
+	text-decoration: none;
+	text-align: center;
+	font size: 25px;
+}
+ul li a:hover {
+	color: #aadac2;
+}
+.image img{
+	align-items: center;
+	width: 30%;
+	padding-left: 60px;
+	padding-Right: 30px;
+	float: left;
+}
+.Information {
+	text-align: center;
+	padding top: 30px;
+}
