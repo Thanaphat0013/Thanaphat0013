@@ -46,7 +46,14 @@ ul li a:hover {
 	color: #aadac2;
 }
 .image img{
-	align-items: center;
+	align-items: right;
+	width: 30%;
+	margin-top: 50px;
+	padding-left: 35%;
+	padding-Right: 35%;
+}
+.image2 img{
+	align-items: left;
 	width: 30%;
 	margin-top: 50px;
 	padding-left: 35%;
