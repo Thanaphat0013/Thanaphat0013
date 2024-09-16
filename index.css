@@ -40,7 +40,7 @@ ul li a {
 	color: #c992c2;
 	text-decoration: none;
 	text-align: center;
-	font size: 25px;
+	font-size: 25px;
 }
 ul li a:hover {
 	color: #aadac2;
@@ -55,4 +55,5 @@ ul li a:hover {
 .AboutMeText {
 	text-align: center;
 	text-shadow: #e2fff3;
+	color: white;
 }
