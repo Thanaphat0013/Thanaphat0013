@@ -13,7 +13,7 @@ body {
 .title {
 	text-align: center;
 	font-size: 30px;
-	color: #c992c2;
+	color: #000000;
 }
 .link {
 	text-align: center;
@@ -50,7 +50,7 @@ ul li a:hover {
 .Information {
 	width: 645px;
 	height: 350px;
-	background-color: #fff;
+	background-color: #ADD8E6;
 	border: 3px solid #c992c2;
 	margin-right: 400px;
 	margin-left: 500px;	
