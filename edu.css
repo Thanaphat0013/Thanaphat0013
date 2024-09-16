@@ -17,7 +17,7 @@ body {
 }
 .link {
 	text-align: center;
-	color: #c992c2;
+	color: #00000;
 	font-size: 20px;
 }
 ul {
@@ -49,7 +49,7 @@ ul li a:hover {
 .TWTinfo {
 	width: 645px;
 	height: 350px;
-    background-color: #fff;
+    background-color: #FFFFC5;
     border: 3px solid #c992c2;
 	margin-right: 400px;
 	margin-left: 500px;	
@@ -57,7 +57,7 @@ ul li a:hover {
 .CRUinfo {
 	width: 645px;
 	height: 340px;
-    background-color: #fff;
+    background-color: #FFFFC5;
     border: 3px solid #c992c2;
 	margin-right: 400px;
 	margin-left: 500px;	
