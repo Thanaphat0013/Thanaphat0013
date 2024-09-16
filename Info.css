@@ -48,6 +48,10 @@ ul li a:hover {
 	float: left;
 }
 .Information {
-	text-align: center;
-	padding top: 30px;
+	width: 645px;
+	height: 2500px;
+	background-color: #fff;
+	margin-right: 400px;
+	margin-left: 500px;	
 }
+
