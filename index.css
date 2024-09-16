@@ -56,4 +56,6 @@ ul li a:hover {
 	text-align: center;
 	text-shadow: #e2fff3;
 	background-color: white;
+	border-style: solid;
+	border-color: #c992c2;
 }
