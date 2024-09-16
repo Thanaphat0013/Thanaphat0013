@@ -47,7 +47,14 @@ ul li a:hover {
 	padding-Right: 30px;
 	float: left;
 }
-.Information {
+.TWTinfo {
+	width: 645px;
+	height: 2500px;
+	background-color: #fff;
+	margin-right: 400px;
+	margin-left: 500px;	
+}
+.CRUinfo {
 	width: 645px;
 	height: 2500px;
 	background-color: #fff;
